@@ -1,0 +1,10 @@
+CREATE TABLE `oldskaterclub`.`comments` (
+  `comment_id` INT NOT NULL AUTO_INCREMENT,
+  `user_id` INT ,
+  `image_id` INT,
+  `poster_id` INT ,
+  `comment` TEXT,
+  `comment_day_time` DATETIME,
+  PRIMARY KEY (`comment_id`)
+)
+CHARACTER SET utf8;

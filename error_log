@@ -1,0 +1,51 @@
+[30-Oct-2008 21:55:10] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/dottommc/public_html/bookmarks/index.php on line 52
+[30-Oct-2008 21:55:10] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/dottommc/public_html/bookmarks/index.php on line 60
+[30-Oct-2008 21:55:13] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/dottommc/public_html/bookmarks/index.php on line 52
+[30-Oct-2008 21:55:13] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/dottommc/public_html/bookmarks/index.php on line 60
+[30-Oct-2008 21:55:16] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/dottommc/public_html/bookmarks/index.php on line 52
+[30-Oct-2008 21:55:16] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/dottommc/public_html/bookmarks/index.php on line 60
+[30-Oct-2008 21:56:06] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/dottommc/public_html/bookmarks/index.php on line 52
+[30-Oct-2008 21:56:06] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/dottommc/public_html/bookmarks/index.php on line 60
+[30-Oct-2008 21:56:17] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/dottommc/public_html/bookmarks/index.php on line 52
+[30-Oct-2008 21:56:17] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/dottommc/public_html/bookmarks/index.php on line 60
+[30-Oct-2008 21:56:20] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/dottommc/public_html/bookmarks/index.php on line 52
+[30-Oct-2008 21:56:20] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/dottommc/public_html/bookmarks/index.php on line 60
+[30-Oct-2008 22:20:21] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/dottommc/public_html/bookmarks/index.php on line 57
+[30-Oct-2008 22:20:59] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/dottommc/public_html/bookmarks/index.php on line 57
+[30-Oct-2008 22:21:04] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/dottommc/public_html/bookmarks/index.php on line 57
+[30-Oct-2008 22:21:33] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/dottommc/public_html/bookmarks/index.php on line 57
+[30-Oct-2008 22:36:55] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/dottommc/public_html/bookmarks/index.php on line 58
+[30-Oct-2008 22:37:25] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/dottommc/public_html/bookmarks/index.php on line 58
+[30-Oct-2008 22:43:09] PHP Parse error:  syntax error, unexpected T_INCLUDE in /home/dottommc/public_html/bookmarks/cat_ajax.php on line 15
+[30-Oct-2008 22:43:11] PHP Parse error:  syntax error, unexpected T_INCLUDE in /home/dottommc/public_html/bookmarks/cat_ajax.php on line 15
+[30-Oct-2008 22:43:56] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/dottommc/public_html/bookmarks/cat_ajax.php on line 27
+[31-Oct-2008 00:01:29] PHP Warning:  date() expects at least 1 parameter, 0 given in /home/dottommc/public_html/bookmarks/login.php on line 14
+[31-Oct-2008 00:01:33] PHP Warning:  date() expects at least 1 parameter, 0 given in /home/dottommc/public_html/bookmarks/login.php on line 14
+[31-Oct-2008 00:01:33] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dottommc/public_html/bookmarks/login.php:14) in /home/dottommc/public_html/bookmarks/login.php on line 45
+[31-Oct-2008 00:01:33] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dottommc/public_html/bookmarks/login.php:14) in /home/dottommc/public_html/bookmarks/login.php on line 46
+[31-Oct-2008 00:08:55] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/dottommc/public_html/bookmarks/login.php on line 29
+[31-Oct-2008 00:09:09] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/dottommc/public_html/bookmarks/login.php on line 29
+[31-Oct-2008 00:30:39] PHP Parse error:  syntax error, unexpected ')' in /home/dottommc/public_html/bookmarks/index.php on line 17
+[31-Oct-2008 00:31:40] PHP Parse error:  syntax error, unexpected ')' in /home/dottommc/public_html/bookmarks/index.php on line 17
+[31-Oct-2008 00:31:42] PHP Parse error:  syntax error, unexpected ')' in /home/dottommc/public_html/bookmarks/index.php on line 17
+[31-Oct-2008 00:31:46] PHP Parse error:  syntax error, unexpected ')' in /home/dottommc/public_html/bookmarks/index.php on line 17
+[31-Oct-2008 00:31:47] PHP Parse error:  syntax error, unexpected ')' in /home/dottommc/public_html/bookmarks/index.php on line 17
+[31-Oct-2008 13:31:22] PHP Parse error:  syntax error, unexpected T_ELSEIF in /home/dottommc/public_html/bookmarks/add.php on line 28
+[24-Nov-2008 22:34:24] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/dottommc/public_html/bookmarks/admin.php on line 95
+[24-Nov-2008 22:34:28] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/dottommc/public_html/bookmarks/admin.php on line 95
+[24-Nov-2008 22:35:25] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/dottommc/public_html/bookmarks/admin.php on line 95
+[24-Nov-2008 22:35:26] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/dottommc/public_html/bookmarks/admin.php on line 95
+[24-Nov-2008 22:36:00] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/dottommc/public_html/bookmarks/admin.php on line 95
+[24-Nov-2008 22:36:02] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/dottommc/public_html/bookmarks/admin.php on line 95
+[24-Nov-2008 22:36:46] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/dottommc/public_html/bookmarks/admin.php on line 95
+[24-Nov-2008 22:36:47] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/dottommc/public_html/bookmarks/admin.php on line 95
+[24-Nov-2008 22:36:50] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/dottommc/public_html/bookmarks/admin.php on line 95
+[24-Nov-2008 22:36:51] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/dottommc/public_html/bookmarks/admin.php on line 95
+[24-Nov-2008 22:36:53] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/dottommc/public_html/bookmarks/admin.php on line 95
+[24-Nov-2008 22:37:31] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/dottommc/public_html/bookmarks/admin.php on line 95
+[24-Nov-2008 22:37:32] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/dottommc/public_html/bookmarks/admin.php on line 95
+[24-Nov-2008 22:37:34] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/dottommc/public_html/bookmarks/admin.php on line 95
+[24-Nov-2008 22:37:35] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/dottommc/public_html/bookmarks/admin.php on line 95
+[24-Nov-2008 22:39:16] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/dottommc/public_html/bookmarks/admin.php on line 95
+[24-Nov-2008 22:39:56] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/dottommc/public_html/bookmarks/admin.php on line 95
+[01-Dec-2008 14:22:23] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dottommc/public_html/bookmarks/index.php:2) in /home/dottommc/public_html/bookmarks/index.php on line 9

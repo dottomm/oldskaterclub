@@ -1,0 +1,20 @@
+CREATE TABLE `oldskaterclub`.`users` (
+  `userId` INT NOT NULL AUTO_INCREMENT,
+  `firstName` VARCHAR(60),
+  `lastName` VARCHAR(60),
+  `alias` VARCHAR(60),
+  `address` VARCHAR(50),
+  `city` VARCHAR(50),
+  `state` VARCHAR(50),
+  `province` VARCHAR(50),
+  `country` VARCHAR(50),
+  `DOB` DATE,
+  `sex` VARCHAR(1),
+  `email` VARCHAR(60),
+  `ip` text,
+  `dateofregister` DATE,
+  `dateoflastvisit` DATE,
+  `adminLevel` text,
+  PRIMARY KEY (`userId`)
+)
+CHARACTER SET utf8;
